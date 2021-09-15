@@ -1,0 +1,19 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" alt="">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">We're a team of senior data architects with several years experience in FAANG</h2>
+      <p class="subtitle subtitle--light">We spend a lot of time thinking about data analytics. Our position in the industry gives us a unique perspective into the latest in data technology, best practices, and more. Evolve your data ecosystem from archaic and cumbersome to a modern, advanced, self-service process.</p>
+      <a href="#" class="cta button--fill contact-trigger js-contact">Get in Touch</a>
+    </div>
+  </div>
+</section>
