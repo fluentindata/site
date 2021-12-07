@@ -505,6 +505,10 @@ nav.main_menu {
     padding: 10px 0;
 }
 
+a.logo img {
+    width:40%;
+}
+
 .mobile_menu_logo a.logo {
     font-size: 18px;
     color: #fff;
