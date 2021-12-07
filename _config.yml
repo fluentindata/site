@@ -1,7 +1,7 @@
 
 title: "Datafluent - End-to-end Data Strategy Consulting"
 description: >- # this means to ignore newlines until "baseurl:"
-Set your data in motion. Faster Insights. Better Decisions. Make your data work for you!
+  Set your data in motion. Faster Insights. Better Decisions. Make your data work for you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fluentindata.com" # the base hostname & protocol for your site, e.g. http://example.com
 phone_number: ""
