@@ -1,19 +1,16 @@
 
-title: "Onova - IT Solutions and Services Company"
+title: "Datafluent - End-to-end Data Strategy Consulting"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/onova" # the subpath of your site, e.g. /blog
+  We're a team of senior data engineers with several years of experience in Big Tech (Apple, Google, Facebook). We've been at the cutting-edge of the industry for many years. Our breadth of experience gives us a unique vantage point into the data landscape. Evolve your data ecosystem from archaic and cumbersome to a modern, advanced, self-service process. Make your data work for you!
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fluentindata.com" # the base hostname & protocol for your site, e.g. http://example.com
 phone_number: ""
 email: "admin@datafluent.com"
 company_name: "DATAFLUENT"
-site_logo_one: "/assets/images/df-white-3.png"
-site_logo_two: "/assets/images/df-white-3.png"
-site_logo_three: "/assets/images/df-white-3.png"
+site_logo_one: "/assets/images/logo_1.png"
+site_logo_two: "/assets/images/logo_2.png"
+site_logo_three: "/assets/images/logo_3.png"
 site_name: "DATAFLUENT"
-
 
 # Build settings
 theme: minima
