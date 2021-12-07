@@ -240,7 +240,7 @@ span.theme_span {
 
 .lodar ul li {
     display: inline-block;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -280,6 +280,21 @@ span.theme_span {
 
 .lodar ul li:nth-child(5) {
     animation-delay: 2.5s;
+}
+.lodar ul li:nth-child(6) {
+    animation-delay: 3.0s;
+}
+.lodar ul li:nth-child(7) {
+    animation-delay: 3.5s;
+}
+.lodar ul li:nth-child(8) {
+    animation-delay: 4.0s;
+}
+.lodar ul li:nth-child(9) {
+    animation-delay: 4.5s;
+}
+.lodar ul li:nth-child(10) {
+    animation-delay: 5.0s;
 }
 
 /*
