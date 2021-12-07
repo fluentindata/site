@@ -1578,10 +1578,12 @@ textarea.form_control {
 }
 
 .footer_title {
+    width: 40%;
     margin-bottom: 38px;
 }
 
 .footer_title h5 {
+    width: 40%;
     color: #fff;
 }
 
