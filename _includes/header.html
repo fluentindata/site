@@ -1,37 +1,21 @@
-<header class="header--main">
-
-	<div class="wrap grid__2-col">
-
-		{% if site.data.settings.header_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="header__logo">
-			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
-		</a>
-		{% else %}
-		<a href="{{ site.baseurl }}/" class="header__title">
-			{{ site.data.settings.basic_settings.site_title }}
-		</a>
-		{% endif %}
-
-		<div class="menu__toggle js-menu-toggle">
-			<div class="menu__toggle__icon"><span></span></div>
-		</div>
-
-		<nav class="header__menu">
-			<div class="menu__wrap">
-				<ul class="menu__list">
-					{% for item in site.data.settings.menu_settings.menu_items %}
-					<li class="menu__list__item">
-						<a href="{{ item.url | relative_url }}" class="menu__list__item__link button--text">{{ item.title }}</a>
-					</li>
-					{% endfor %}
-					<li class="menu__cta">
-						<a href="#" class="menu__cta__link button--text contact-trigger js-contact">Get In Touch</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
-
-		<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>
-	</div>
-
+<!-- Start onova_header  -->
+<header class="onova_header onova_header_3">
+    <div class="header_container_3">
+        <div class="onova_logo_3">
+            <a href="{{site.url}}"><img class="img-fluid" src="{{site.site_logo_two}}" class="img-fluid" alt="{{site.title}}"/></a>
+        </div>
+        <div class="onova_main_menu onova_main_menu_3">
+          {% include navigation.html %}
+        </div>
+        <div class="menu_get_right">
+            <div class="menu_get_icon search_icon">
+                <a href="#" class="search_btn search-open"><i class="far fa-search"></i></a>
+            </div>
+            <div class="menu_get_icon bar_icon menu_link_list">
+                <a href="#" class="menu_icon"><i class="far fa-bars"></i></a>
+            </div>
+        </div>
+    </div>
+   {% include mobile_menu.html %}
 </header>
+<!-- End onova_header  -->
