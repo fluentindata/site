@@ -7,9 +7,9 @@ url: "https://fluentindata.com" # the base hostname & protocol for your site, e.
 phone_number: ""
 email: "admin@datafluent.com"
 company_name: "DATAFLUENT"
-site_logo_one: ""
-site_logo_two: ""
-site_logo_three: ""
+site_logo_one: "/assets/images/df-logo_1.png"
+site_logo_two: "/assets/images/df-logo_2.png"
+site_logo_three: "/assets/images/df-logo_3.png"
 site_name: "DATAFLUENT"
 
 # Build settings

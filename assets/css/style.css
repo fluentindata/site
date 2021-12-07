@@ -510,6 +510,10 @@ nav.main_menu {
     color: #fff;
 }
 
+a.logo img {
+    width:40%;
+}
+
 .mobile_menu_icon .menu_icon {
     font-size: 18px;
     color: #000;
