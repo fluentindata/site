@@ -12,6 +12,10 @@ site_logo_two: "/assets/images/df-logo_2.png"
 site_logo_three: "/assets/images/df-logo_3.png"
 site_name: "DATAFLUENT"
 
+header_image: "/assets/images/grid.png"
+
+video_url: "https://player.vimeo.com/video/654224172?h=09bfdf52cb"
+
 # Build settings
 theme: minima
 plugins:

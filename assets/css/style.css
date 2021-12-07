@@ -496,6 +496,13 @@ nav.main_menu {
     opacity: 1;
 }
 
+.df-logo-text{
+    font-family: 'Gilroy-Bold.ttf';
+    font-size: 25px;
+    color: white;
+    letter-spacing: 5px;
+}
+
 /*
 	header_menu
 */

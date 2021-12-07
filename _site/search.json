@@ -5,7 +5,7 @@
       "category" : "technology",
       "tags"     : "jekyll",
       "url"      : "/technology/2019/11/02/static-website.html",
-      "date"     : "2019-11-02 15:10:09 +0600"
+      "date"     : "2019-11-02 02:10:09 -0700"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "web",
       "tags"     : "jekyll",
       "url"      : "/web/2019/11/01/dynamic-website.html",
-      "date"     : "2019-11-01 15:12:09 +0600"
+      "date"     : "2019-11-01 02:12:09 -0700"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "jekyll",
       "tags"     : "jekyll",
       "url"      : "/jekyll/2019/04/08/welcome-to-jekyll.html",
-      "date"     : "2019-04-08 15:12:09 +0600"
+      "date"     : "2019-04-08 02:12:09 -0700"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "wordpress",
       "tags"     : "wordpress, hosting",
       "url"      : "/wordpress/2019/03/10/wordpress-hosting.html",
-      "date"     : "2019-03-10 20:37:13 +0600"
+      "date"     : "2019-03-10 07:37:13 -0700"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "educationtech",
       "tags"     : "wordpress, hosting",
       "url"      : "/education/tech/2019/03/09/html5-static-site.html",
-      "date"     : "2019-03-09 20:37:13 +0600"
+      "date"     : "2019-03-09 06:37:13 -0800"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "tech",
       "tags"     : "technology, education",
       "url"      : "/tech/2019/02/09/just-trying.html",
-      "date"     : "2019-02-09 20:37:13 +0600"
+      "date"     : "2019-02-09 06:37:13 -0800"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "tipstech",
       "tags"     : "technology, education",
       "url"      : "/tips/tech/2019/02/09/free-themes.html",
-      "date"     : "2019-02-09 20:37:13 +0600"
+      "date"     : "2019-02-09 06:37:13 -0800"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "tech",
       "tags"     : "technology, education",
       "url"      : "/tech/2019/02/09/alternative-for-free.html",
-      "date"     : "2019-02-09 20:37:13 +0600"
+      "date"     : "2019-02-09 06:37:13 -0800"
     } ,
   
     {
@@ -69,7 +69,7 @@
       "category" : "health trips",
       "tags"     : "technology, education, SEO",
       "url"      : "/health%20trips/2019/02/01/seo-friendly-post.html",
-      "date"     : "2019-02-01 20:37:13 +0600"
+      "date"     : "2019-02-01 06:37:13 -0800"
     } 
   
 ]

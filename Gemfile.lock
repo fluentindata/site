@@ -88,6 +88,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  ruby
   universal-darwin-20
   x64-mingw32
 

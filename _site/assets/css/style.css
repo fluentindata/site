@@ -307,11 +307,6 @@ span.theme_span {
 /*
 	Start onova_header area css
 */
-
-.thirty {
-    width: 30%;
-}
-
 header.onova_header.onova_header_1 {
     border-bottom: 1px solid #e7f3ff;
 }
@@ -501,6 +496,13 @@ nav.main_menu {
     opacity: 1;
 }
 
+.df-logo-text{
+    font-family: 'Gilroy-Bold.ttf';
+    font-size: 25px;
+    color: white;
+    letter-spacing: 5px;
+}
+
 /*
 	header_menu
 */
@@ -510,13 +512,13 @@ nav.main_menu {
     padding: 10px 0;
 }
 
-a.logo img {
-    width:40%;
-}
-
 .mobile_menu_logo a.logo {
     font-size: 18px;
     color: #fff;
+}
+
+a.logo img {
+    width:40%;
 }
 
 .mobile_menu_icon .menu_icon {
@@ -1587,10 +1589,12 @@ textarea.form_control {
 }
 
 .footer_title {
+    width: 40%;
     margin-bottom: 38px;
 }
 
 .footer_title h5 {
+    width: 40%;
     color: #fff;
 }
 
