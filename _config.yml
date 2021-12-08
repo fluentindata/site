@@ -1,5 +1,5 @@
 
-title: "Datafluent - End-to-end Data Strategy Consulting"
+title: "Datafluent - We speak your data!"
 description: >- # this means to ignore newlines until "baseurl:"
   Set your data in motion. Faster Insights. Better Decisions. Make your data work for you!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,6 +14,8 @@ site_name: "DATAFLUENT"
 
 header_image: "/assets/images/grid.png"
 
+mail_to_address: "mailto:admin@fluentindata.com"
+
 video_url: "https://player.vimeo.com/video/654224172?h=09bfdf52cb"
 
 # Build settings
@@ -22,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-seo-tag
 
 
 collections:
