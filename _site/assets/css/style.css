@@ -2501,6 +2501,10 @@ textarea.form_control {
 /*
 	Start onova_sponser section css
 */
+
+div.single_sponser img {
+    height: 50px;
+}
 .onova_sponser_1 {
     padding-top: 220px;
     padding-bottom: 120px;
@@ -3038,7 +3042,8 @@ textarea.form_control {
 	Satrt onova_sponser section
 */
 .onova_sponser_2 {
-    padding: 120px 0 20px;
+    padding: 0px 0 20px;
+    padding-bottom: 66px;
 }
 
 .dark_bg {
@@ -3918,6 +3923,9 @@ textarea.form_control {
     border-radius: 6px;
     background: rgb(5, 116, 255);
     transform: all .5s;
+}
+
+.video_player {
 }
 
 /*
